@@ -1,0 +1,73 @@
+I want to create a portfolio website for myself, and I have provided some insights about me below for your reference. I want it to be clear, modern, minimal and with responsive pages. I want to be able to add/edit content in this website easily. It will also contain Contact Me section for people to be able to reach me. Also, I am thinking to add an optional field where people can send a message for me that will be received as an email in my Gmail, but it will be optional with the ability to turn it on or off if when needed.
+
+Insights About Me:
+My name is Abdullah Ahmed Abdo. I a Senior Operations and Integrations specialist in Grubtech. I aim to become a Product Manager and I am learning to achieve this goal. I have very basic experience about programing with no coding experience, but I can use AI to help me do what I need. I want to create this portfolio website to showcase my experience and skills to attract employers and connections.
+
+I am doing this website for real and not just practicing, so give me practical and effective solutions. Take your time to think and ask me whenever you are stuck. I want to create the website, and visualize it first and then I will think about hosting it later. Keep the budget to minimum and free if possible.
+
+
+Notes:
+
+1- Choose the best programming languages you see fit to make this website responsive and future-proofe. But keep the budget to minimum, free is better.
+
+2- Use this Formspree Endpoint "https://formspree.io/f/manjqbeo" to make the responses of Contact Me form goes directly to my Gmail.
+
+3- The website style should be modern, elegant and professional.
+
+4- I want to be able to modify the website content whenever I need. Whether to add/edit content or change my Profile Photo.
+
+5- I want the website to be secure, and don't want any security breach from the Contact Me form, i.e., I don't want my gmail to be hacked from the Contact Me responses, so take the necessary precautions.
+
+
+Website Content
+
+
+BIO:
+
+Results-driven Senior POS Operations & Integration Specialist with over five years of experience in end-to-end POS system integrations, process optimization, and cross-functional collaboration. Certified Lean Six Sigma Green Belt with a proven track record of streamlining workflows, resolving technical challenges, and driving operational excellence. Currently transitioning into Product Management, leveraging strong analytical skills, a data-driven mindset, and deep understanding of system dynamics to develop and deliver customer-focused, high-impact products.
+
+Contact Me:
+
+Email Address: abdullah.ahmed2695@gmail.com
+LinkedIn Profile: www.linkedin.com/in/abdullah-ahmed-abdo-297677166
+
+Headline:
+
+"Senior Operations & Integrations Specialist | Aspiring Product Manager | Certified Lean Six Sigma - Green Belt | Ex-Talabat | FoodTech | SaaS"
+
+The optional "Send a Message" form:
+
+An optional field when the site visitors can provide their Name, Email Address and Subject and Message, and then the responses should be sent to my Gmail (abdullah.ahmed2695@gmail.com).
+
+
+Experience:
+
+POS Operation and Integration Specialist at Grubtech
+01/2024 – Current 
+Cairo , Egypt
+- Creating and managing all technical setups needed for customers to integrate their online food channels in the system.
+- Connecting point of sale (POS) systems with all food applications to grow customers' businesses and streamline their operations.
+- Working closely with the Sales and Customer Success teams to facilitate operations of onboarding new customers.
+- Anticipating and troubleshooting any issue that may arise during the integration process.
+- Working in cross-functional projects with Engineering team to address the product issues and areas of improvement, enhancing the integration process and determine user stories.
+ 
+Regional POS Integration Specialist at Talabat
+07/2023 – 01/2024 
+Cairo , Egypt
+- Manage the onboarding and switching requests with our partnered integrators and cloud kitchens.
+- Provide technical support for our partners regarding POS and KDS systems to ensure smooth operations and successful orders.
+- Analyse and testing of the system's operation and its efficiency to support business functions and deliverables.
+- Manage the communications with our partners and integrators, and our Engineering team to ensure the POS system’s functionality.
+ 
+Senior Regional Key Account Specialist at Talabat
+02/2020 – 07/2023 
+Cairo , Egypt
+- Support our key partners in MENA region to manage menu and content related requests, execute marketing campaigns, and provide necessary technical support.
+- Operate logistics operations with local teams in each country and manage the communications between our company and our stakeholders to ensure our customers satisfaction.
+ 
+Senior Medical Marketing Representative at Kemet Clinical Laboratories
+ 11/2017 – 02/2020 
+Cairo , Egypt
+- Selling the company's services to possible leads, and other relevant healthcare providers.
+- Scheduling appointments and negotiating contracts.
+- Building and maintaining good business relationships with customers and following up on leads generated by the company to encourage repeat purchases and improve sales.
